@@ -119,7 +119,7 @@ Throughout this course, I learned and applied several crucial database concepts 
 ## Contact
 
 - **Creator:** Anushka Harshavadan Nevgi  
-- **LinkedIn:** [Anushka Nevgi(https://www.linkedin.com/in/anushka-nevgi/)]  
+- **LinkedIn:** [[Anushka Nevgi](https://www.linkedin.com/in/anushka-nevgi/)]  
 - **Email:** anushkanevgi2910@gmail.com  
 
 ---
